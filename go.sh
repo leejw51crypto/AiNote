@@ -4,6 +4,7 @@ git submodule update --init
 if [ ! -d "./llama.cpp/models/7B" ]; then
     cd llama
     ./download2.sh
+    cd ..
 
     cp ./llama/tokenizer.model ./llama.cpp/models
     cp ./llama/tokenizer_checklist.chk ./llama.cpp/models
