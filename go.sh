@@ -1,3 +1,5 @@
+git submodule update --init
+
 # Check if ./llama.cpp/models/7B exists
 if [ ! -d "./llama.cpp/models/7B" ]; then
     cd llama
