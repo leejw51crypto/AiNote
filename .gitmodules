@@ -1,0 +1,9 @@
+[submodule "llama"]
+	path = llama
+	url = git@github.com:leejw51crypto/llama.git
+[submodule "llama.cpp"]
+	path = llama.cpp
+	url = git@github.com:leejw51crypto/llama.cpp.git
+[submodule "mlx-examples"]
+	path = mlx-examples
+	url = git@github.com:leejw51crypto/mlx-examples.git
