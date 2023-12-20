@@ -7,3 +7,6 @@
 [submodule "mlx-examples"]
 	path = mlx-examples
 	url = git@github.com:leejw51crypto/mlx-examples.git
+[submodule "ollama"]
+	path = ollama
+	url = git@github.com:leejw51crypto/ollama.git
